@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Hi there 👋
 
 
@@ -37,3 +38,6 @@ This repository contains a Spring Boot application that implements a simple CRUD
 Copy the project and make the solution public on your personal GitHub.
 Provide us the GitHub URL via email.
 (Don't forget to make the repository PUBLIC 😁)
+=======
+# SiemensInternship2025
+>>>>>>> 8b52a5b123fed4f4bcc409720b18f55a738266d7
